@@ -1,9 +1,9 @@
-body, h1, h2, h3, h4, p  {
+body, h1, h2, h3, h4, p {
     font-family: 'Inter', 'EB Garamond', 'Arial', sans-serif; /* Основной шрифт */
     font-weight: 400; /* Толщина шрифта */
     color: white;
     margin: 0;
-  }
+}
 
 section {
     width: 360px; 
@@ -28,7 +28,17 @@ section {
     background-color: #FEE42A;
     color: black; 
 }
-
 .header {
-  margin: 24px 20px 24px 20px;
+    margin: 54px 20px 24px 20px;
 }
+.header__logo {}
+.header__logo-image {}
+.header__menu {}
+.header__menu-list {}
+.header__menu-item {}
+.header__menu-item_active {}
+.header__menu-link {}
+
+
+
+
