@@ -1,32 +1,32 @@
 body, h1, h2, h3, h4, p {
-    font-family: 'Inter', 'EB Garamond', 'Arial', sans-serif; /* Основной шрифт */
-    font-weight: 400; /* Толщина шрифта */
-    color: white;
-    margin: 0;
+font-family: 'Inter', 'EB Garamond', 'Arial', sans-serif; /* Основной шрифт */
+font-weight: 400; /* Толщина шрифта */
+color: white;
+margin: 0;
 }
 
 section {
-    width: 360px; 
-    margin: 0 auto; 
-    box-sizing: border-box;
-    background-color: #e3f3ff
+width: 360px; 
+margin: 0 auto; 
+box-sizing: border-box;
+background-color: #e3f3ff
 }
 
 .content-section {
-    width: 360px; 
-    margin: 0 auto; 
-    box-sizing: border-box; 
+width: 360px; 
+margin: 0 auto; 
+box-sizing: border-box; 
 }
 
 .content-section_theme_dark {
-    height: 100px;
-    background-color: #131313;
-    color: white;
+height: 100px;
+background-color: #131313;
+color: white;
 }
  .content-section_theme_bright {
-    height: 100px;
-    background-color: #FEE42A;
-    color: black; 
+height: 100px;
+background-color: #FEE42A;
+color: black; 
 }
 .header__logo {}
 .header__logo-image {}
